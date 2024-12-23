@@ -1,5 +1,5 @@
 <template>
-  <h1>selam</h1>
+  <h1>selams</h1>
 </template>
 
 <script>
